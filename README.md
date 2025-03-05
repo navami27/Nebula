@@ -8,4 +8,8 @@ medicine and the manufacturing industry for anomaly detection.
   ```bash
   git clone https://github.com/navami27/Nebula.git
 # Running the code
-- Run main1.py 
+- Run main1.py
+# Results 
+![gradioui](https://github.com/user-attachments/assets/68f47a38-a589-46bb-a8c7-909849c94a08)
+
+
